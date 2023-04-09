@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - My Blog: [![Blog Badge](https://img.shields.io/badge/Blog-blog.iuiun.com-green?style=plastic)](https://blog.iuiun.com)
 
-:books: I am currently studying in WuHan, HuBei, China
+:books: I am currently working in Zibo, Shandong, China
 
 - :office: I use daily: ![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=plastic&logo=HTML5) ![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript) ![AJAX Badge](https://img.shields.io/badge/-AJAX-blue?style=plastic&logo=axios) ![Node.js Badge](https://img.shields.io/badge/-NodeJs-green?style=plastic&logo=nodedotjs)
 - :memo: I am learning: ![Vue.js Badge](https://img.shields.io/badge/-Vue-black?style=plastic&logo=Vue.js) ![React.js Badge](https://img.shields.io/badge/-React-blue?style=plastic&logo=React) ![TypeScript Badge](https://img.shields.io/badge/-TypeScript-181717?style=plastic&logo=TypeScript)
